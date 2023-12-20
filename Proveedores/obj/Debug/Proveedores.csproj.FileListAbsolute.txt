@@ -1,0 +1,11 @@
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\bin\Debug\Proveedores.exe.config
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\bin\Debug\Proveedores.exe
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\bin\Debug\Proveedores.pdb
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.csproj.AssemblyReference.cache
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.Properties.Resources.resources
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.Proveedor.resources
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.csproj.GenerateResource.cache
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.csproj.CoreCompileInputs.cache
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.exe
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.pdb
+C:\Users\Victor Alejandro\source\repos\ModuloProveedores\Proveedores\obj\Debug\Proveedores.MainProveedores.resources
