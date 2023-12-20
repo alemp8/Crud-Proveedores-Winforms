@@ -9,7 +9,7 @@ namespace Proveedores
 {
     internal class DataAccess
     {
-        private SqlConnection conn = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=BasedePrueba;Data Source=DESKTOP-7F8OG1J\\MSSQLEXPRESS");
+        private SqlConnection conn = new SqlConnection("TuCadenadeConexion");
 
         public void InsertProvedor(Proveedores proveedor)
         {
